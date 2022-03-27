@@ -160,3 +160,7 @@ footer {
     grid-column: 1/-1;
   }
 }
+
+.codepen{
+  height: 800px;
+}
